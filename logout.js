@@ -1,5 +1,5 @@
 const logout=()=>{
-    console.log("just a conflict demo");
+    console.log("hdfn");
     return "logout";
 }
 logout();
